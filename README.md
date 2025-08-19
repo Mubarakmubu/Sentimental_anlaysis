@@ -51,24 +51,7 @@ The BERT model significantly outperforms the traditional Logistic Regression app
     .Train logistic regression classifier
 
      .Compare performance with BERT model
-
--  5 Model Deployment
-
-   .Save the trained BERT model and tokenizer
-
-    .Create an interactive prediction interface
-
-   
-  # Dependencies
   
-   .Python 3.10+
+  -  Model Performance Results
+<img width="310" height="247" alt="image" src="https://github.com/user-attachments/assets/b1440002-c666-4b29-82b4-16b5b216436a" />
 
-  .pandas
-
- .torch
-
- .scikit-learn
-
-transformers (Hugging Face)
-
-datasets
