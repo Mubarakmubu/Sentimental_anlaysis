@@ -55,3 +55,19 @@ The BERT model significantly outperforms the traditional Logistic Regression app
   -  Model Performance Results
 <img width="310" height="247" alt="image" src="https://github.com/user-attachments/assets/b1440002-c666-4b29-82b4-16b5b216436a" />
 
+#OUTPUT
+- GridSearch R² Score: 0.5095
+- GridSearch RMSE: 0.4628
+- GridSearch MAE: 0.2924
+
+#Conclusion
+
+-The sentiment analysis pipeline successfully implemented and compared traditional machine learning (Logistic Regression) and deep learning (BERT) approaches. The BERT model significantly outperformed the baseline, demonstrating the effectiveness of transformer-based models for NLP tasks. However, class imbalance remains a challenge that should be addressed in future iterations.
+
+The project provides a solid foundation for sentiment analysis of app reviews and can be extended with improved data balancing, model optimization, and deployment as a web service.
+
+
+
+
+
+
